@@ -13,7 +13,7 @@
     "clean": "npx rimraf lib",
     "lint:flow": "npx flow status",
     "lint:flow:stop": "npx flow stop",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build --scripts-prepend-node-path"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
