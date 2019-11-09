@@ -1,6 +1,6 @@
 {
   "name": "@soulofmischief/node-utils",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A quality-of-life library for Node.js",
   "main": "lib",
   "repository": "https://github.com/soulofmischief/node-utils",
