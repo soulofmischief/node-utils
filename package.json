@@ -2,7 +2,7 @@
   "name": "@soulofmischief/node-utils",
   "version": "0.1.6",
   "description": "A quality-of-life library for Node.js",
-  "main": "lib/index.js",
+  "main": "lib",
   "repository": "https://github.com/soulofmischief/node-utils",
   "author": "soulofmischief <soulofmischief@protonmail.com>",
   "license": "MIT",
